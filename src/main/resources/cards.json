@@ -1,0 +1,61 @@
+{
+  "id": null,
+  "cardNumber": "51",
+  "pokemonStage": "STAGE1",
+  "name": "Cloyster",
+  "hp": 130,
+  "evolvesFrom": {
+    "id": null,
+    "cardNumber": "50",
+    "pokemonStage": "STAGE1",
+    "name": "Shellder",
+    "hp": 30,
+    "evolvesFrom": null,
+    "skills": [
+      {
+        "name": "Tongue Slap",
+        "description": "",
+        "cost": "1",
+        "damage": 10
+      },
+      {
+        "name": "Wave Splash",
+        "description": "",
+        "cost": "2",
+        "damage": 20
+      }
+    ],
+    "weaknessType": "LIGHTNING",
+    "resistanceType": "FIRE",
+    "retreatCost": "2",
+    "gameSet": "Sword & Shield - Fusion Strike",
+    "pokemonType": "WATER",
+    "regulationMark": "E",
+    "pokemonOwner": {
+      "firstName": "Nikita",
+      "surName": "Chirka",
+      "familyName": "Sergeevich",
+      "group": "BSBO-04-23"
+    }
+  },
+  "skills": [
+    {
+      "name": "Aqua Split",
+      "description": "This attack also does 30 damage to 2 of your opponents Benched Pokémon. (Dont apply Weakness and Resistance for Benched Pokémon.)",
+      "cost": "W2",
+      "damage": 60
+    }
+  ],
+  "weaknessType": "LIGHTNING",
+  "resistanceType": "FIRE",
+  "retreatCost": "2",
+  "gameSet": "Sword & Shield - Fusion Strike",
+  "pokemonType": "WATER",
+  "regulationMark": "E",
+  "pokemonOwner": {
+    "firstName": "Nikita",
+    "surName": "Chirka",
+    "familyName": "Sergeevich",
+    "group": "BSBO-04-23"
+  }
+}
